@@ -1,0 +1,60 @@
+PS C:\Users\Aswini\OneDrive\Desktop\ATM> javac AtmMain.java
+PS C:\Users\Aswini\OneDrive\Desktop\ATM> java AtmMain
+Welcome to ATM Machine!
+Enter ATM number: 12345
+Enter PIN: 123
+
+1. View Available Balance
+2. Withdraw Amount
+3. Deposit Amount
+4. View Mini Statement
+5. Exit
+Enter choice: 1
+Available Balance is: 10000.0
+
+1. View Available Balance
+2. Withdraw Amount
+3. Deposit Amount
+4. View Mini Statement
+5. Exit
+Enter choice: 3
+Enter amount to deposit: 10000
+10000.0 Deposited Successfully!
+Available Balance is: 20000.0
+
+1. View Available Balance
+2. Withdraw Amount
+3. Deposit Amount
+4. View Mini Statement
+5. Exit
+Enter choice: 4
+10000.0 =  Amount Deposited
+
+1. View Available Balance
+2. Withdraw Amount
+3. Deposit Amount
+4. View Mini Statement
+5. Exit
+Enter choice: 2
+Enter amount to withdraw: 2000
+Collect the cash: 2000.0
+Available Balance is: 18000.0
+
+1. View Available Balance
+2. Withdraw Amount
+3. Deposit Amount
+4. View Mini Statement
+5. Exit
+Enter choice: 4
+10000.0 =  Amount Deposited
+2000.0 =  Amount withdrawn
+
+1. View Available Balance
+2. Withdraw Amount
+3. Deposit Amount
+4. View Mini Statement
+5. Exit
+Enter choice: 5
+Collect your ATM Card
+Thank you for using ATM Machine
+PS C:\Users\Aswini\OneDrive\Desktop\ATM> 
